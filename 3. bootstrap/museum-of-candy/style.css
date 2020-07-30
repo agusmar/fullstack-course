@@ -22,6 +22,12 @@ body {
   color: #ea1c2c;
 }
 
+img {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 500px;
+}
 
 /* 
 h1 {
